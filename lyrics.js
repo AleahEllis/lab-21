@@ -10,7 +10,7 @@ var array=["It's so crazy right now!",
 'Switch your neck ties to purple labels',
 'Lemme upgrade you',
 'Mission four: Got the vintage Rolls Drop a couple hundreds tell him leave it at the door',
-'Mission three: Got my three best friends Like we do it all the time we gonna do it again (hey)'
+'Mission three: Got my three best friends Like we do it all the time we gonna do it again (hey)',
 "Mission two: Gotta make that call, Tell him get the bottles poppin' when they play my song (hey)",
 "Mission one: I'ma put this on When he see me in the dress I'ma get me some (hey)",
 "I ain't worried doing me tonight",

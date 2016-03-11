@@ -1,0 +1,42 @@
+header {
+  text-align: center;
+  padding: 2em 0em;
+  width: 100%;
+  height: 100%;
+  
+}
+@font-face {
+  font-family: 'beyonce';
+  src: url("steelfish.ttf");
+}
+@font-face {
+  font-family: 'beyonce';
+  src: url("steelfish.ttf");
+  font-weight: bold;
+}
+header h1 {
+  font-size: 80px;
+  font-family: beyonce, sans-serif;
+  background-color: rgba(255,255,255,0.4);
+  color: #283833;
+  padding: 1em;
+  display: block;
+  margin-left: 0;
+  margin-bottom: 0;
+}
+
+.yonceRunstheShow{
+    font-size: 40px;
+    font-family: beyonce, sans-serif;
+    text-align: center;
+    background-color: rgba(255,255,255,0.4);
+    color: #283833;
+    padding: 1em;
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 0;
+    border: 5px solid black;
+
+
+}
